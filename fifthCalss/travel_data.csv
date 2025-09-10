@@ -1,0 +1,40 @@
+city,best_time,hotels,flights
+Dubai,November to March,Sunrise Hotel - $80/night; SkyView Hotel - $120/night,Emirates - $250; FlyDubai - $180
+Paris,April to October,Eiffel Stay - $100/night; Paris Luxe - $150/night,Air France - $350; Lufthansa - $300
+London,May to September,Royal Inn - $110/night; Hyde Park Suites - $140/night,British Airways - $320; Virgin Atlantic - $310
+New York,April to June,Manhattan Lodge - $150/night; Central Park Hotel - $200/night,Delta - $400; American Airlines - $380
+Tokyo,March to May,Shinjuku Stay - $130/night; Tokyo Grand - $170/night,Japan Airlines - $450; ANA - $430
+Karachi,November to February,Clifton Stay - $70/night; Karachi Grand - $100/night,PIA - $220; Serene Air - $180
+Lahore,November to February,Liberty Market Inn - $75/night; Lahore Grand - $110/night,PIA - $230; Airblue - $190
+Islamabad,November to March,Blue Area Inn - $80/night; Serena Suites - $120/night,PIA - $240; Serene Air - $200
+Delhi,October to March,Connaught Inn - $80/night; Delhi Grand - $120/night,Air India - $250; IndiGo - $180
+Mumbai,November to February,Marine Drive Stay - $90/night; Gateway Grand - $130/night,Vistara - $260; Air India - $210
+Riyadh,November to March,Kingdom Stay - $100/night; Riyadh Grand - $150/night,Saudia - $250; Flynas - $200
+Jeddah,November to March,Corniche Inn - $90/night; Jeddah Luxe - $130/night,Saudia - $240; Flyadeal - $190
+Makkah,November to March,Haram View Inn - $120/night; Makkah Grand - $180/night,Saudia - $230; Flynas - $200
+Medina,November to March,Prophet Stay - $110/night; Medina Grand - $160/night,Saudia - $220; Flyadeal - $180
+Bangkok,November to February,Siam Stay - $70/night; Bangkok Grand - $100/night,Thai Airways - $250; AirAsia - $200
+Singapore,February to April,Marina Bay Inn - $140/night; Orchard Suites - $180/night,Singapore Airlines - $350; Scoot - $280
+Istanbul,April to June,Bosphorus Inn - $90/night; Hagia Stay - $130/night,Turkish Airlines - $270; Pegasus - $220
+Sydney,September to November,Harbour View - $160/night; Opera Suites - $190/night,Qantas - $400; Jetstar - $350
+Toronto,May to September,Maple Inn - $120/night; CN Tower Hotel - $150/night,Air Canada - $320; WestJet - $300
+Los Angeles,March to May,Hollywood Stay - $140/night; Beverly Hills Inn - $200/night,United Airlines - $370; Delta - $350
+Berlin,May to September,Brandenburg Hotel - $110/night; Berlin Luxe - $150/night,Lufthansa - $300; Ryanair - $250
+Barcelona,April to June,La Rambla Inn - $130/night; Sagrada Suites - $170/night,Vueling - $280; Iberia - $300
+Amsterdam,May to September,Canal View - $120/night; Tulip Inn - $140/night,KLM - $320; Transavia - $280
+Venice,April to June,Grand Canal Hotel - $150/night; Rialto Suites - $180/night,Alitalia - $310; EasyJet - $260
+Cairo,October to April,Nile View - $80/night; Pyramid Inn - $110/night,EgyptAir - $250; Nile Air - $200
+Hong Kong,October to December,Victoria Harbour Hotel - $140/night; Kowloon Suites - $170/night,Cathay Pacific - $350; HK Express - $300
+San Francisco,April to June,Golden Gate Inn - $160/night; Bay Area Suites - $190/night,United Airlines - $400; Alaska Airlines - $380
+Chicago,May to September,Millennium Inn - $130/night; Navy Pier Suites - $160/night,American Airlines - $350; United Airlines - $340
+Lisbon,April to June,Alfama Stay - $120/night; Lisbon Luxe - $150/night,TAP Portugal - $280; Ryanair - $250
+Prague,May to September,Charles Bridge Inn - $100/night; Prague Palace - $130/night,Czech Airlines - $270; Wizz Air - $230
+Vienna,May to September,Ringstrasse Inn - $130/night; Vienna Grand - $160/night,Austrian Airlines - $320; Ryanair - $280
+Seoul,March to May,Gangnam Stay - $120/night; Seoul Grand - $150/night,Korean Air - $350; Asiana - $320
+Athens,April to October,Acropolis Inn - $110/night; Athens Stay - $150/night,Aegean Airlines - $280; Ryanair - $240
+Moscow,June to August,Red Square Inn - $130/night; Kremlin View - $170/night,Aeroflot - $300; S7 Airlines - $270
+Madrid,April to June,Gran Via Hotel - $120/night; Madrid Luxe - $150/night,Iberia - $280; Air Europa - $260
+Dublin,May to September,Temple Bar Inn - $110/night; Dublin Castle Suites - $140/night,Aer Lingus - $300; Ryanair - $250
+Mexico City,November to March,Chapultepec Stay - $100/night; Zocalo Suites - $130/night,Aeromexico - $280; Volaris - $230
+Cape Town,November to February,Table Mountain Inn - $120/night; Waterfront Suites - $150/night,South African Airways - $350; Mango - $300
+Doha,November to March,Corniche Inn - $90/night; Doha Grand - $120/night,Qatar Airways - $300; SalamAir - $250
